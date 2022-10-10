@@ -8,7 +8,7 @@ public class LogicTest {
     @Test
     public void checkPasswordTest() {
         Logic logic = new Logic();
-        var result = logic.checkPassword("qq!!d");
+        var result = logic.checkPassword("qq!!");
         Assertions.assertTrue(result);
     }
 
