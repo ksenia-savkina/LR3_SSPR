@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogicTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-10T16:26:24" hostname="LAPTOP-CSL9708D" time="0.024">
+  <properties/>
+  <testcase name="insertTest()" classname="LogicTest" time="0.02"/>
+  <testcase name="deleteTest()" classname="LogicTest" time="0.001"/>
+  <testcase name="checkPasswordTest()" classname="LogicTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
