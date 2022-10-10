@@ -17,7 +17,7 @@ public class LogicTest {
         Logic logic = new Logic();
         logic.insertInList();
         logic.insertInList();
-        Assertions.assertEquals(logic.getList().get(1).getId(), 2);
+        Assertions.assertEquals(logic.getList().get(1).getId(), 1);
     }
 
     @Test
