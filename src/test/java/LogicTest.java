@@ -2,7 +2,6 @@ import org.example.Logic;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-
 public class LogicTest {
 
     @Test
@@ -28,5 +27,4 @@ public class LogicTest {
         logic.deleteFromList(logic.getList().get(0));
         Assertions.assertEquals(logic.getList().get(0).getId(), 2);
     }
-
 }

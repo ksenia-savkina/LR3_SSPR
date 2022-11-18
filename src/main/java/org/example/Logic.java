@@ -11,7 +11,7 @@ public class Logic {
         return list;
     }
 
-    private List<Customer> list;
+    private final List<Customer> list;
 
     public Logic() {
         list = new ArrayList<>();
@@ -42,5 +42,4 @@ public class Logic {
         }
         return false;
     }
-
 }
